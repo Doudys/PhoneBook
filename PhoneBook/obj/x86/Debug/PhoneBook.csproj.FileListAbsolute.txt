@@ -1,0 +1,9 @@
+c:\users\vista\documents\visual studio 2010\Projects\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+c:\users\vista\documents\visual studio 2010\Projects\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+c:\users\vista\documents\visual studio 2010\Projects\PhoneBook\PhoneBook\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\vista\documents\visual studio 2010\Projects\PhoneBook\PhoneBook\obj\x86\Debug\PhoneBook.Form1.resources
+c:\users\vista\documents\visual studio 2010\Projects\PhoneBook\PhoneBook\obj\x86\Debug\PhoneBook.Properties.Resources.resources
+c:\users\vista\documents\visual studio 2010\Projects\PhoneBook\PhoneBook\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\vista\documents\visual studio 2010\Projects\PhoneBook\PhoneBook\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\vista\documents\visual studio 2010\Projects\PhoneBook\PhoneBook\obj\x86\Debug\PhoneBook.exe
+c:\users\vista\documents\visual studio 2010\Projects\PhoneBook\PhoneBook\obj\x86\Debug\PhoneBook.pdb
